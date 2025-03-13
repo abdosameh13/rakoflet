@@ -1,1 +1,6 @@
-flet
+pip install kivy
+pip install opencv-python
+pip install pyzbar
+pip install qrcode
+pip install pillow
+pip install pyperclip
